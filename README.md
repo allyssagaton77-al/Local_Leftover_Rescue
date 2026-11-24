@@ -1,5 +1,7 @@
 # Local Leftover Rescue
 
+**Live demo:** https://local-leftover-rescue-gid.vercel.app
+
 A React + JavaScript mobile app concept for rescuing leftover food from nearby shops.
 
 The UI is based on the attached `Untitled.png` mockups, and the remaining screens were added from `Information Architecture.pdf`:
